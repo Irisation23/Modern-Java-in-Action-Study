@@ -5,6 +5,7 @@
 <img width="461" alt="image" src="https://github.com/bunsung92/Modern-Java-in-Action-Study/assets/53285909/4b7997f5-ecd8-4ab7-b914-a83d5bcaa638">
 
 - 스터디 운영 방식 (~ing)
+- [모던 자바 인 액션 예제 코드](http://www.hanbit.co.kr/src/10202)
 
 해당 repository는 `모던 자바 인 액션 스터디` 커뮤니티 입니다.   
 구성원들은 매주 부여된 `Chapter`를 학습합니다.
